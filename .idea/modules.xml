@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DEQA.iml" filepath="$PROJECT_DIR$/DEQA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deqa.core.api/deqa.core.api.iml" filepath="$PROJECT_DIR$/deqa.core.api/deqa.core.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deqa.core.api-impl/deqa.core.api-impl.iml" filepath="$PROJECT_DIR$/deqa.core.api-impl/deqa.core.api-impl.iml" />
+    </modules>
+  </component>
+</project>
