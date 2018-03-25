@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DEQA.iml" filepath="$PROJECT_DIR$/DEQA.iml" />
       <module fileurl="file://$PROJECT_DIR$/deqa.core.api/deqa.core.api.iml" filepath="$PROJECT_DIR$/deqa.core.api/deqa.core.api.iml" />
       <module fileurl="file://$PROJECT_DIR$/deqa.core.api-impl/deqa.core.api-impl.iml" filepath="$PROJECT_DIR$/deqa.core.api-impl/deqa.core.api-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deqa.sockets/deqa.sockets.iml" filepath="$PROJECT_DIR$/deqa.sockets/deqa.sockets.iml" />
     </modules>
   </component>
 </project>

@@ -11,6 +11,7 @@
     <modules>
         <module>deqa.core.api</module>
         <module>deqa.core.api-impl</module>
+        <module>deqa.sockets</module>
     </modules>
 
 

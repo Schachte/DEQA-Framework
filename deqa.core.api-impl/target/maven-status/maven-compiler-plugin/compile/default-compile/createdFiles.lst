@@ -1,0 +1,10 @@
+commons/impl/requests/DEQARequestImpl.class
+commons/impl/requests/DEQAResponseImpl.class
+commons/impl/requests/DEQAUpdateRequest.class
+commons/impl/DEQAItemImpl.class
+testBedMain.class
+commons/impl/requests/DEQACreateRequest.class
+middleware/impl/MiddlewareService.class
+DummyEndpoint.class
+commons/impl/RatingImpl.class
+commons/impl/DEQAQuestionImpl.class

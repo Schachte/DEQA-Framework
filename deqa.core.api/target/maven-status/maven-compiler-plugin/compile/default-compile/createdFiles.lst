@@ -1,0 +1,7 @@
+core/framework/commons/DEQAItem.class
+core/framework/commons/DEQAResponse.class
+core/framework/security/User.class
+core/framework/exceptions/InvalidInstanceException.class
+core/framework/commons/DEQARequest.class
+core/framework/middleware/prepost/PrepostMiddleware.class
+core/framework/commons/Rating.class

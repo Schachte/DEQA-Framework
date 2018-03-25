@@ -17,7 +17,7 @@ public class DEQAItemImpl implements DEQAItem {
         this.itemCreationStamp = getCurrentDateTime();
     }
 
-    private String getCurrentDateTime() {
+    public String getCurrentDateTime() {
         DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
         Date date = new Date();
         return dateFormat.format(date);

@@ -1,5 +1,6 @@
 package commons.impl;
 
+import commons.impl.requests.DEQARequestImpl;
 import core.framework.commons.Rating;
 
 import java.util.List;
@@ -16,6 +17,7 @@ public class DEQAQuestionImpl extends DEQAItemImpl {
     public DEQAQuestionImpl(String itemOriginator, String questionBody) {
         this(itemOriginator);
         this.rating = new RatingImpl();
+        this.questionBody = questionBody;
     }
 
     private DEQAQuestionImpl(String itemOriginator) {
