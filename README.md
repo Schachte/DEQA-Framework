@@ -1,7 +1,6 @@
 ![DEQA](https://i.imgur.com/aNa17Jw.png)
 # DEQA Framework
 
-
 ##### What is the DEQA Framework?
 
 > DEQA is a framework that enables real-time message distribution using REST, web sockets and middleware to facilitate the application development process. Our aim is to provide easy to use, REST and Java API's to pass messages around and invoke custom middleware.
